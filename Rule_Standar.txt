@@ -1,0 +1,2 @@
+1. Nama Branch harus format seperti ini nama_fitur_jabatan
+2. Setiap hari harus ada commit
